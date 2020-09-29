@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "ionic-react-conference-app",
+  "appId": "com.bizmaercq.workit",
+  "appName": "work-it",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
